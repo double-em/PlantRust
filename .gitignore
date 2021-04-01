@@ -131,6 +131,13 @@ dmypy.json
 # VSCode
 .vscode
 
+# Jetbrains
+.idea
+
 # Datasets
 data/train
 data/test
+predictions/*.csv
+models/exported/*.pkl
+models/saved/*.pkl
+
